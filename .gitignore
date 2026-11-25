@@ -1,0 +1,5 @@
+GTSRB_Local/venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
